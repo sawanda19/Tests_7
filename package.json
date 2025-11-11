@@ -1,0 +1,23 @@
+{
+  "name": "tests_7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawanda19/Tests_7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sawanda19/Tests_7/issues"
+  },
+  "homepage": "https://github.com/sawanda19/Tests_7#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
